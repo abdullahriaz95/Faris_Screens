@@ -90,6 +90,7 @@ class SupportWidget extends StatelessWidget {
                       side: BorderSide(color: blueColor)),
                 ),
               ),
+              SizedBox(width: 100,height: 200,),
             ],
           ),
         ),

@@ -80,6 +80,7 @@ class MyRapidOverViewAlerts extends StatelessWidget {
                 ),
               ),
               GridWidget(),
+              SizedBox(width: 100,height: 200,),
             ],
           ),
         ),

@@ -340,6 +340,9 @@ class SettingsWidget extends StatelessWidget {
                             ],
                           ),
                         )
+                        ,
+                        SizedBox(width: 100,height: 200,),
+
                       ],
                     ),
                   ),
